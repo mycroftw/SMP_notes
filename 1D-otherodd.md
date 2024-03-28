@@ -1,4 +1,4 @@
-Responses to 1D:
+## Responses to 1D:
 
 - 1M: 4+.  Do this with 4M-5m, or 4M-6+m if not GF.
   - SMP suggests not bypassing spades (1D-1H; 1S).
