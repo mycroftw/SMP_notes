@@ -1,6 +1,7 @@
 Responses to 1D:
 
 - 1M: 4+.  Do this with 4M-5m, or 4M-6+m if not GF.
+  - SMP suggests not bypassing spades (1D-1H; 1S).
   - Opener's jumps are NF, but MAX; 2NT 6D BAL.
 - 1NT: to play opposite 11-13 BAL, say 7-11 or so.  Opener's rebids show unbal, could be 15 - responder can invite.
 - 2m: see [1D-2m.md](./1d-2m.md)
