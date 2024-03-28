@@ -8,7 +8,7 @@
 
 Memory aid for 2C-2D: 3D usually "slam try in clubs", 3M 5=cM
 ### 2C-2D:
-- [2H](#2c-2d-2h): *either* 4cM
+- [2H](#2c-2d2h): *either* 4cM
 - 2S: med-max BAL, 4cM
   - 2NT: which?
     - 3C: medium
