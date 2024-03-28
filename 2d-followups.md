@@ -4,7 +4,7 @@
 
 Responses:
 - pass, 2M, 3C: to play
-- (2NT)[#2d-2nt): strength and shape inquiry
+- [2NT](#2d-2nt): strength and shape inquiry
 - 3D: 
 - 3M: NAT 5+trump, 7-9ish
 - 3NT: to play
@@ -17,3 +17,5 @@ Responses:
 - 3D: 4414, max
 - 3M: 3 card major,  max
 - 3NT: 4405, max
+
+Note parallels in 2NT answers.
